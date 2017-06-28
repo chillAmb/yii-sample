@@ -1,1 +1,1 @@
-# yii-sample
+Yii Frameworkでのログイン機能サンプル
