@@ -1,4 +1,6 @@
 Yii Frameworkサンプルコード
 =========
 
-Yii Frameworkでのログイン機能サンプル
+Yii Frameworkでの
+・ログイン機能コントローラーサンプル
+・アクセスログ作成コマンドサンプル
